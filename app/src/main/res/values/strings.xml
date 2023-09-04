@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">installer</string>
+    <string name="device_admin_description">Allow Nibav to enjoy full functionalities</string>
+</resources>
